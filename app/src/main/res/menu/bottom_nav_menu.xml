@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/bmi"
+        android:title="BMI"
+        android:icon="@drawable/ic_person_1"/>
+
+    <item android:id="@+id/weight"
+        android:title="Weight"
+        android:icon="@drawable/ic_scale_1"/>
+
+    <item android:id="@+id/placeHolder"
+        android:title=""
+        android:enabled="false" />
+
+    <item android:id="@+id/chart"
+        android:title="Chart"
+        android:icon="@drawable/ic_chart_1"/>
+
+    <item android:id="@+id/history"
+        android:title="History"
+        android:icon="@drawable/ic_history_1"/>
+</menu>

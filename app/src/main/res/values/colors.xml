@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="purpleBlue">#0a134c</color>
+    <color name="pantoneYellow">#F5DF4D</color>
+    <color name="pantoneBlue">#0f4c81</color>
+    <color name="pantoneRed">#BB2649</color>
+    <color name="pantoneGray">#96999b</color>
+    <color name="pantoneGreen">#88b04b</color>
+    <color name="pantoneOrange">#e15d44</color>
+    <color name="pantoneSky">#7fcdcd</color>
+    <color name="pantoneDarkYellow">#FFCA4B</color>
+    <color name="back1">#afc6e1</color>
+    <color name="back2">#e3efff</color>
+    <color name="infoColor">#001d34</color>
+    <color name="appBackground">#f2f1eb</color>
+
+</resources>

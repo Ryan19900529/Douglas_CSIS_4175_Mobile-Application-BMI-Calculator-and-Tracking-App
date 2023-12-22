@@ -1,0 +1,19 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+<!--    <style name="Base.Theme.BMITrackingAPP" parent="Theme.MaterialComponents.Light">-->
+<!--    <style name="Base.Theme.BMITrackingAPP" parent="Theme.MaterialComponents.DayNight.NoActionBar">-->
+    <style name="Base.Theme.BMITrackingAPP" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorPrimary">@color/pantoneBlue</item>
+        <item name="android:colorPrimaryDark">@color/black</item>
+<!--        <item name="android:windowBackground">@color/appBackground</item>-->
+    </style>
+
+    <style name="EditTextTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+<!--        <item name="colorControlNormal">@color/primary</item>-->
+        <item name="colorControlActivated">@color/pantoneBlue</item>
+        <item name="colorControlHighlight">@color/pantoneBlue</item>
+    </style>
+
+    <style name="Theme.BMITrackingAPP" parent="Base.Theme.BMITrackingAPP" />
+
+</resources>
